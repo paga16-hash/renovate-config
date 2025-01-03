@@ -6,7 +6,7 @@ To reuse, prepare your `renovate.json` as follows:
 ```json
 {
   "extends": [
-      "github>DanySK/renovate-config:file-name"
+      "github>paga16-hash/renovate-config:file-name"
   ]
 }
 ```
